@@ -1,0 +1,12 @@
+# project name :Bus Ticket Booking App
+
+
+*SEARCH  BUSES-( SO HIGH)
+
+
+
+*LIST ALL BUSES - High
+ 
+ select*from bus_ticket_booking_app_display;
+ 
+ 
