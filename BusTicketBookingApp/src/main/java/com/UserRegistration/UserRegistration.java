@@ -3,6 +3,7 @@ package com.UserRegistration;
 public class UserRegistration {
 
 	// field initialization
+	
 	public String  userName;
 	public String emailId;
 	public String password;
@@ -15,6 +16,11 @@ public class UserRegistration {
 		this.password = password;
 		this.phoneNumber = phoneNumber;
 	}
+	public UserRegistration(String emailId, String password) {
+		this.emailId = emailId;
+		this.password = password;
+	}
+	
 	
 	
 	}
